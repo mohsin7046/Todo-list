@@ -1,5 +1,13 @@
 # Todo-list
 
+![Screenshot 2024-06-18 155951](https://github.com/mohsin7046/Todo-list/assets/150660077/70b1f047-4a0f-484c-85f5-e7074355a906)
+
+## Add Task
+![Screenshot (2)](https://github.com/mohsin7046/Todo-list/assets/150660077/28ffa30f-a8ac-43a9-93b6-185fbb6c2030)
+
+## Task Input Empty
+![Screenshot (3)](https://github.com/mohsin7046/Todo-list/assets/150660077/acb71074-8990-47f6-baef-e2dfe1157832)
+
 A simple and efficient Todo-list application built with Vite, React, Tailwind CSS, React-Toastify, and Context API.
 
 ## Table of Contents
@@ -8,7 +16,6 @@ A simple and efficient Todo-list application built with Vite, React, Tailwind CS
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
